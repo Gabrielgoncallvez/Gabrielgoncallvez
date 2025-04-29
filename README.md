@@ -1,16 +1,16 @@
-## Hi there 👋
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou no 3º semestre do curso. Ao longo da minha jornada, tenho me aprofundado em diversas áreas da programação e desenvolvimento de software, com foco em:
 
-<!--
-**Gabrielgoncallvez/Gabrielgoncallvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvimento Web
+- Banco de Dados
+- Lógica de Programação
+- Algoritmos
 
-Here are some ideas to get you started:
+No meu GitHub, você encontrará meus projetos acadêmicos e pessoais, além de exercícios e desafios que venho resolvendo durante o curso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Linguagens:  Python, SQL
+- Banco de Dados: MySQL, PostgreSQL
+- Ferramentas: Git, GitHub, Visual Studio Code
+
+## Atualmente estou em produção de um projeto integrado na faculdade Anhanguera Campus Marte;
